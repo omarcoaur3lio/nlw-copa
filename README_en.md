@@ -11,25 +11,25 @@
     <img alt="Marco Aurélio" src="https://img.shields.io/badge/-Marco Aurélio-000?style=flat&logo=Linkedin&logoColor=fff&labelColor=000" />
 </a>
 
-<a href="./README_en.md">
-    <img alt="Read in english" src="https://img.shields.io/badge/-Read in english-000?style=flat&logo=google-translate&logoColor=fff&labelColor=000" />
+<a href="./README.md">
+    <img alt="Leia em português" src="https://img.shields.io/badge/-Leia em português-000?style=flat&logo=google-translate&logoColor=fff&labelColor=000" />
 </a>
     </h1>
 </p>
 <br>
 
 <p align="center">
-  <a href="#speech_balloon-Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#speech_balloon-Sobre">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#camera-Preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Tecnologias">Tecnologias</a>
+  <a href="#rocket-Tecnologias">Technologies</a>
 </p>
 
-## :speech_balloon: Sobre
+## :speech_balloon: About
 
-Esta aplicação foi desenvolvida durante o evento NLW da [Rocketseat](https://www.rocketseat.com.br/ignite).
+This application was developed during the NLW event of [Rocketseat](https://www.rocketseat.com.br/ignite).
 
-O **`<nlw/> COPA`** é uma aplicação onde podemos criar "bolões" para realização de palpites dos jogos da copa do mundo de futebol 2022.
-A aplicação conta com uma interface Web feita em React (apenas para criação de bolões), um back-end desenvolvido em Node.js e um App mobile feito em React Native.
+The **`<nlw/> COPA`** is an application where we can create "pools" to make predictions for the 2022 soccer world cup games.
+The application has a web interface made in React (only for creating pools), a back-end developed in Node.js and a mobile App made in React Native.
 
 ## :camera: Preview
 
@@ -37,7 +37,7 @@ A aplicação conta com uma interface Web feita em React (apenas para criação 
   <img src=".github/nlw-cover.png" width=80% />
 </div>
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
@@ -50,4 +50,6 @@ A aplicação conta com uma interface Web feita em React (apenas para criação 
 - [Fastify](https://www.fastify.io/)
 - [Zod](https://github.com/colinhacks/zod)
 
-<p align="center"> Feito com :purple_heart: </p>
+<p align="center">
+  Feito com :purple_heart:
+</p>
